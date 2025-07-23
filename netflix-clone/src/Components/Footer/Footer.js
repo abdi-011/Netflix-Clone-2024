@@ -6,6 +6,7 @@ import YouTubeIcon from '@mui/icons-material/YouTube';
 import CopyrightIcon from '@mui/icons-material/Copyright';
 function Footer() {
   return (
+   
     <div className='footer_outer_container'>
       <div className='footer_inner_container'>
         <div className='footer_icons'>
@@ -54,6 +55,7 @@ function Footer() {
       </div>
         
     </div>
+    
   )
 }
 

@@ -17,7 +17,7 @@
     transition-timing-function: ease-in;
     z-index: 1;
     /* background-color: red; */
-    /* background-color: black; */
+     background-color: black; 
     max-width: 100%;  
 }
 .header-container {
@@ -26,6 +26,7 @@
     justify-content: space-between;
     align-items: center;
     /* background-color: yellow; */
+    
 }
 .header-left {
    display: flex;
