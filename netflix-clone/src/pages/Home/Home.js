@@ -9,7 +9,7 @@ function Home() {
     <div className='app'>
         <Header/>
         <Banner/>
-         <RowList/> 
+        <RowList/> 
         <Footer/>
     </div>
   )

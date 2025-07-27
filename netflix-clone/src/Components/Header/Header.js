@@ -23,18 +23,6 @@ function Header() {
          </ul>
        </div>
       </div>
-                {/* <ul>
-                     <li><img src={NetflixLogo} alt='NetflixLogo' width="30%" className='netflix_logo' /> </li>                      
-                     <li>Netflix</li> 
-                     <li>Home</li>
-                     <li>TivShows</li>
-                     <li>Movies</li>
-                     <li>Latest</li>
-                     <li>MyList</li>
-                     <li>Browse by languages</li>
-                </ul> */}
-                
-     
             <div className='header-right'>
                 <ul>
                     <li><SearchIcon/></li>
